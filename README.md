@@ -28,17 +28,10 @@
 
 O Finance Control é um sistema de gerenciamento financeiro desenvolvido em Python puro com SQLModel, focado na administração de contas e transações de forma eficiente e segura. Ele permite criar e desativar contas, realizar transferências, movimentar saldo e visualizar um histórico detalhado das operações. Além disso, oferece um gráfico interativo para melhor compreensão das finanças.
 
-Principais funcionalidades:
-✅ Criar conta – Cadastro rápido e seguro de novas contas.
-✅ Desativar conta – Possibilidade de desativar contas inativas.
-✅ Transferir dinheiro – Envio seguro de valores entre contas.
-✅ Movimentar dinheiro – Depósitos e saques de forma prática.
-✅ Total contas – Consulta do saldo total disponível.
-✅ Filtrar histórico – Pesquisa avançada por movimentações financeiras.
-✅ Gráfico – Visualização interativa do fluxo financeiro.
 
-Com essa abordagem, o Finance Control torna o controle financeiro prático, seguro e intuitivo, ajudando na organização das finanças pessoais ou empresariais. 🚀
-
+<p align="center">
+  <img src="image.png" alt="Imagem 1">
+</p>
 
 
 <br>
@@ -65,7 +58,7 @@ Antes de começar, você precisa ter o Python 3.x instalado no seu sistema. Voc�
   Abra seu terminal e clone o repositório do projeto:
 
   ```bash
-  git clone https://github.com/yMiguelzinfinance-control.git
+  git clone https://github.com/yMiguelzin/finance-control.git
 
   ```
 2. **Ative o ambiente virtual (opcional, mas recomendado)**:
@@ -105,10 +98,8 @@ Após a criação do venv vamos ativa-lo:
   Navegue até a pasta do projeto e instale as dependências necessárias:
 
   ```bash
-  Dependências
 
   pip install sqlmodel
-
 
   ```
 
